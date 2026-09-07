@@ -1,0 +1,2 @@
+# Trad
+Kickstart AI Trading
